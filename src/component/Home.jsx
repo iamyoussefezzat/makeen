@@ -558,9 +558,9 @@ const Home = () => {
               <p> مطور الويب  </p>
 
             <div className='detil'>
-            <HashLink to="/#process"> <LinkedInIcon /> </HashLink>
-            <HashLink to="/#process"> <GitHubIcon /> </HashLink>
-            <HashLink to="/#process"> <EmailIcon /> </HashLink>
+            <HashLink to="http://www.linkedin.com/in/youssef-m-ezzat-63412b300"> <LinkedInIcon /> </HashLink>
+            <HashLink to="https://github.com/iamyoussefezzat/makeen"> <GitHubIcon /> </HashLink>
+            <HashLink to="youssefm.ezzat99@gmail.com"> <EmailIcon /> </HashLink>
              
               </div> 
             
