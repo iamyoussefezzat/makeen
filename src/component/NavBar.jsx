@@ -34,7 +34,7 @@ function NavBar() {
                     </Navbar.Collapse>  
                   
                     <div >
-                    <HashLink to="/#process" className="github"> <GitHubIcon /> </HashLink>
+                    <HashLink to="https://github.com/iamyoussefezzat/makeen" className="github"> <GitHubIcon /> </HashLink>
                      </div>
                   
                 </Container>
