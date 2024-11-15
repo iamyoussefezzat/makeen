@@ -25,7 +25,7 @@ function Footer() {
                     </Col>
                     <Col md="4" sm="12" className='iconsdiv'>
                     <div className="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.5s">
-                    <HashLink to="/#process"> <GitHubIcon /> </HashLink>
+                    <HashLink to="https://github.com/iamyoussefezzat/makeen"> <GitHubIcon /> </HashLink>
                         </div>
                     </Col>
                 </Row>
