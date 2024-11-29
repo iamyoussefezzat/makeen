@@ -114,16 +114,7 @@ const Game = () => {
 
               <Row>
 
-         
-                  <Col md={6} sm={12} lg={6} className='game2Col' >
-              
-                        <h1>
-                        عرض توضيحي لمشروع 
-                        </h1>
-                        
-                        <HashLink to="/#latest"><button> اذهب الي اليوتيوب </button></HashLink>
-                
-                  </Col>
+        
          
          
 
@@ -135,7 +126,7 @@ const Game = () => {
 
                   </h1>
 
-                  <HashLink to="/#latest"><button>    رابط اللعبة  </button></HashLink>  
+                  <HashLink to="https://joezzat.itch.io/journey-through-the-smoke-data"><button>    رابط اللعبة  </button></HashLink>  
 
 
           
